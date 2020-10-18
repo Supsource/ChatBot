@@ -75,9 +75,7 @@ public class ChatBot extends JFrame implements KeyListener{
 			quote.trim();
 			byte response=0;
 			/*
-			0:we're searching through chatBot[][] for matches
-			1:we didn't find anything
-			2:we did find something
+			Code BY @Supsource
 			*/
 			//-----check for matches----
 			int j=0;//which group we're checking
